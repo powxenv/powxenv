@@ -6,7 +6,6 @@ i like clean code, quiet workspaces, and products that feel intentional
 
 you can find me here:<br>
 **website** → [https://noval.me](https://noval.me)<br>
-**discord** → [https://discord.gg/ExCvJtVTu6](https://discord.gg/ExCvJtVTu6)
 
 <!--START_SECTION:waka-->
 
