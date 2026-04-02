@@ -10,11 +10,11 @@ you can find me here:<br>
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte                     831 hrs 19 mins       ██████████▓░░░░░░░░░░░░░░   42.22 %
-TypeScript                 591 hrs 5 mins        ███████▓░░░░░░░░░░░░░░░░░   30.02 %
-PHP                        127 hrs 49 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-SQL                        79 hrs 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-Blade Template             57 hrs 11 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Svelte                     831 hrs 40 mins       ██████████▓░░░░░░░░░░░░░░   42.09 %
+TypeScript                 593 hrs 45 mins       ███████▓░░░░░░░░░░░░░░░░░   30.05 %
+PHP                        127 hrs 49 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+SQL                        79 hrs 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Blade Template             57 hrs 11 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
 ```
 
 <!--END_SECTION:waka-->
