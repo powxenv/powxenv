@@ -11,7 +11,7 @@ you can find me here:<br>
 
 ```txt
 Svelte                     838 hrs 1 min         ██████████▒░░░░░░░░░░░░░░   40.84 %
-TypeScript                 634 hrs 59 mins       ███████▓░░░░░░░░░░░░░░░░░   30.95 %
+TypeScript                 634 hrs 59 mins       ███████▓░░░░░░░░░░░░░░░░░   30.94 %
 PHP                        127 hrs 49 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
 SQL                        80 hrs 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
 Blade Template             57 hrs 11 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
