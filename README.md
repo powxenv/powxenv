@@ -7,10 +7,10 @@ i like clean code, quiet workspaces, and products that feel intentional
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte                     840 hrs 55 mins       █████████▓░░░░░░░░░░░░░░░   38.51 %
-TypeScript                 691 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   31.66 %
+Svelte                     840 hrs 26 mins       █████████▓░░░░░░░░░░░░░░░   38.49 %
+TypeScript                 691 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   31.66 %
 PHP                        127 hrs 49 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
-Markdown                   96 hrs 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+Markdown                   97 hrs 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
 SQL                        80 hrs 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
