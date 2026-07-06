@@ -8,7 +8,7 @@ i like clean code, quiet workspaces, and products that feel intentional
 
 ```txt
 Svelte                     843 hrs 59 mins       █████████▒░░░░░░░░░░░░░░░   37.35 %
-TypeScript                 712 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.54 %
+TypeScript                 712 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   31.54 %
 Markdown                   134 hrs 57 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
 PHP                        127 hrs 49 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
 SQL                        80 hrs 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
